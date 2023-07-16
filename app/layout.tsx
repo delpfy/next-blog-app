@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import "./globals.css";
-import { TheHeader } from "@/components/TheHeader";
-import { TheFooter } from "@/components/TheFooter";
+import  TheHeader  from "@/components/TheHeader";
+import  TheFooter  from "@/components/TheFooter";
 
 export const metadata: Metadata = {
   title: "Next App",
